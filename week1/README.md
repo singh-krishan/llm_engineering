@@ -85,6 +85,3 @@ This is part of a structured learning program. For questions or improvements:
 - Troubleshooting and common issues
 
 ---
-
-*Last updated: January 2025*
-*Course: LLM Engineering Fundamentals*
